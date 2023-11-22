@@ -201,4 +201,4 @@ elif a.lower() == 'l':
 
 <h1>Flowchart</h1>
 
-![](gambar/flowchart.png)
+![](dokumentasi/flowchart.png)
