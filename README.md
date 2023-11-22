@@ -55,12 +55,12 @@ del kontak['Dina']
 ```
 
 
-![](gambar/latihan.png)
+![](dokumentasi/code1.png)
 
 
 <h2>Output</h2>
 
-![](gambar/latihan.png)
+![](dokumentasi/ss1.png)
 
 
 
@@ -68,7 +68,7 @@ del kontak['Dina']
 
 <h2>Program Data Mahasiswa</h2>
 
-![](gambar/code.png)
+![](dokumentasi/code2.png)
 
 <h2>Langkah-langkah</h2>
 
@@ -189,15 +189,15 @@ elif a.lower() == 'l':
 
 <h3>Menambahkan Data</h3>
 
-![](gambar/tambah.png)
+![](dokumentasi/ss2.png)
 
 <h3>Mengubah Data</h3>
 
-![](gambar/ubah.png)
+![](dokumentasi/ss3.png)
 
 <h3>Menghapus Data</h3>
 
-![](gambar/hapus.png)
+![](dokumentasi/ss4.png)
 
 <h1>Flowchart</h1>
 
